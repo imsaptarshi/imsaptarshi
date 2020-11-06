@@ -13,7 +13,7 @@ I'm Saptarshi Basu A.K.A [@CodingVerse](https://www.instagram.com/codingverse/),
 - 😄 Pronouns: he/him
 -  ⚡ Languages: Java, C, Python3, JavaScript
 
-#### Stats: 
+## Stats: 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=saptarshibasu15&theme=dark" /> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saptarshibasu15&theme=dark" />
 

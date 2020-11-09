@@ -4,7 +4,7 @@
 
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, 
 
-I'm Saptarshi Basu A.K.A [@CodingVerse](https://www.instagram.com/codingverse/), I'm 15, an aspiring software engineer 👨‍💻 who is passionate about mobile technologies, open source & programming. I'm also a self proclaimed graphic designer and internet surfer 
+I'm Saptarshi Basu A.K.A [@Coding Verse](https://www.instagram.com/codingverse/), I'm 15, an aspiring software engineer 👨‍💻 who is passionate about mobile technologies, open source & programming. I'm also a self proclaimed graphic designer and internet surfer 
 🏄‍♂️. 
 
 - 🔭 I’m currently working on Android Dev.

@@ -11,10 +11,6 @@ I'm **Saptarshi Basu** A.K.A **[@Coding Verse](https://www.instagram.com/codingv
 - 😄 Pronouns: he/him
 - ⚡ Languages: Java, C/C++, Python3, JavaScript
 
-## 🏓 Get In Touch On ...
-[![](https://img.shields.io/badge/@codingverse-informational?style=flat&logo=instagram&logoColor=white&color=8134af)](https://www.instagram.com/codingverse/)
-[![](https://img.shields.io/badge/@saptarshibasu15-informational?style=flat&logo=github&logoColor=white&color=black)](https://github.com/saptarshibasu15)
-
 ## 🔧 Technologies & Tools ...
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=6e33ba)
@@ -29,6 +25,10 @@ I'm **Saptarshi Basu** A.K.A **[@Coding Verse](https://www.instagram.com/codingv
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=6e33ba)
 ![](https://img.shields.io/badge/Cloud-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=6e33ba)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=6e33ba)
+
+## 🏓 Get In Touch On ...
+[![](https://img.shields.io/badge/@codingverse-informational?style=flat&logo=instagram&logoColor=white&color=8134af)](https://www.instagram.com/codingverse/)
+[![](https://img.shields.io/badge/@saptarshibasu15-informational?style=flat&logo=github&logoColor=white&color=black)](https://github.com/saptarshibasu15)
 
 ## 📈 Github Stats ... 
 

@@ -38,6 +38,7 @@ I'm **Saptarshi Basu** A.K.A **[@Coding Verse](https://www.instagram.com/codingv
 <a href="https://github.com/saptarshibasu15">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=saptarshibasu15&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ce3691&bg_color=1d1f21"/>
 </a>
+<br/><br/>
 
 > El Psy Kongroo
 

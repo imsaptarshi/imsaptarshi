@@ -1,11 +1,11 @@
-<img src="./profile-banner.png">
+<img src="./banner.png">
 
-## Hi fellas! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, 
+## Hi fellas! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
 
-I'm **Saptarshi Basu** A.K.A **[@Coding Verse](https://www.instagram.com/codingverse/)**, I'm 15, an aspiring software engineer 👨‍💻 who is passionate about mobile technologies, open source & programming. I'm also a self proclaimed graphic designer and internet surfer 
-🏄‍♂️. 
+I'm **Saptarshi Basu** A.K.A **[@Coding Verse](https://www.instagram.com/codingverse/)**, I'm 15, an aspiring software engineer 👨‍💻 who is passionate about mobile technologies, open source & programming. I'm also a self proclaimed graphic designer and internet surfer
+🏄‍♂️.
 
-- 🔭 I’m currently working on solutions to make students' lives and academics more efficient, easy and ***COOL***.
+- 🔭 I’m currently working on solutions to make students' lives and academics more efficient, easy and **_COOL_**.
 - 🌱 I’m currently learning Native app development.
 - 💬 Ask me about: tech, memes, anime
 - 😄 Pronouns: he/him
@@ -27,10 +27,11 @@ I'm **Saptarshi Basu** A.K.A **[@Coding Verse](https://www.instagram.com/codingv
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=6e33ba)
 
 ## 🏓 Get In Touch On ...
+
 [![](https://img.shields.io/badge/@codingverse-informational?style=flat&logo=instagram&logoColor=white&color=8134af)](https://www.instagram.com/codingverse/)
 [![](https://img.shields.io/badge/@saptarshibasu15-informational?style=flat&logo=github&logoColor=white&color=black)](https://github.com/saptarshibasu15)
 
-## 📈 Github Stats ... 
+## 📈 Github Stats ...
 
 <a href="https://github.com/saptarshibasu15">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saptarshibasu15&langs_count=3&hide=cpp,css,html&title_color=ffffff&text_color=c9cacc&icon_color=ce3691&bg_color=1d1f21" />
@@ -42,6 +43,6 @@ I'm **Saptarshi Basu** A.K.A **[@Coding Verse](https://www.instagram.com/codingv
 
 > El Psy Kongroo
 
-
 ---
+
 ⭐️ From [Saptarshi Basu](https://github.com/saptarshibasu15)

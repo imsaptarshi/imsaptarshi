@@ -30,6 +30,7 @@ I'm **Saptarshi Basu** A.K.A **[@Coding Verse](https://www.instagram.com/codingv
 
 [![](https://img.shields.io/badge/@codingverse-informational?style=flat&logo=instagram&logoColor=white&color=8134af)](https://www.instagram.com/codingverse/)
 [![](https://img.shields.io/badge/@saptarshibasu15-informational?style=flat&logo=github&logoColor=white&color=black)](https://github.com/saptarshibasu15)
+[![](https://img.shields.io/badge/@saptarshibasu_-informational?style=flat&logo=twitter&logoColor=white)](https://twitter.com/saptarshibasu_)
 
 ## 📈 Github Stats ...
 

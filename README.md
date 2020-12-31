@@ -13,18 +13,18 @@ I'm **Saptarshi Basu** A.K.A **[@Coding Verse](https://www.instagram.com/codingv
 
 ## 🔧 Technologies & Tools ...
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=212C42)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=212C42)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=212C42)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=212C42)
-![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=javascript&logoColor=white&color=212C42)
-![](https://img.shields.io/badge/Code-Next-informational?style=flat&logo=next.js&logoColor=white&color=212C42)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=212C42)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=212C42)
-![](https://img.shields.io/badge/Code-C/C++-informational?style=flat&logo=c&logoColor=white&color=212C42)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=212C42)
-![](https://img.shields.io/badge/Cloud-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=212C42)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=212C42)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white)
+![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/Code-Next-informational?style=flat&logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Code-C/C++-informational?style=flat&logo=c&logoColor=white)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Cloud-Vercel-informational?style=flat&logo=vercel&logoColor=white)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white)
 
 ## 🏓 Get In Touch On ...
 

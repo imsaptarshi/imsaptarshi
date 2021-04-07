@@ -29,16 +29,16 @@ I'm **Saptarshi Basu** A.K.A **[@Coding Verse](https://www.instagram.com/codingv
 ## 🏓 Get In Touch On ...
 
 [![](https://img.shields.io/badge/@codingverse-informational?style=flat&logo=instagram&logoColor=white&color=8134af)](https://www.instagram.com/codingverse/)
-[![](https://img.shields.io/badge/@saptarshibasu15-informational?style=flat&logo=github&logoColor=white&color=black)](https://github.com/saptarshibasu15)
+[![](https://img.shields.io/badge/@saptarshibasu15-informational?style=flat&logo=github&logoColor=white&color=black)](https://github.com/imsaptarshi)
 [![](https://img.shields.io/badge/@saptarshibasu_-informational?style=flat&logo=twitter&logoColor=white)](https://twitter.com/saptarshibasu_)
 
 ## 📈 Github Stats ...
 
 <a href="https://github.com/saptarshibasu15">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saptarshibasu15&langs_count=3&hide=cpp,css,html&title_color=ffffff&text_color=c9cacc&icon_color=ce3691&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsaptarshi&langs_count=3&hide=cpp,css,html&title_color=ffffff&text_color=c9cacc&icon_color=ce3691&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/saptarshibasu15">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saptarshibasu15&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=12ffc4&bg_color=1d1f21"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imsaptarshi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=12ffc4&bg_color=1d1f21"/>
 </a>
 <br/><br/>
 

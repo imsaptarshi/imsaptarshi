@@ -2,10 +2,10 @@
 
 ## Hi fellas! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
 
-I'm **Saptarshi Basu** A.K.A **[@Coding Verse](https://www.instagram.com/codingverse/)**, I'm 15, an aspiring software engineer 👨‍💻 who is passionate about mobile technologies, open source & programming. I'm also a self proclaimed graphic designer and internet surfer
+I'm **Saptarshi Basu**, I'm 16, an aspiring software engineer 👨‍💻 who is passionate about mobile technologies, open source & programming. I'm also a self proclaimed graphic designer and internet surfer
 🏄‍♂️.
 
-- 🔭 I’m currently working on solutions to make students' lives and academics more efficient, easy and **_COOL_**.
+- 🔭 I’m currently working on **[Orbits](https://orbits-theta.vercel.app/)**.
 - 🌱 I’m currently learning Native app development.
 - 💬 Ask me about: tech, memes, anime
 - 😄 Pronouns: he/him
